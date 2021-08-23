@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksmartdialog=self.webpackChunksmartdialog||[]).push([[7929],{5183:function(e,t,a){a.r(t),a.d(t,{default:function(){return u}});var n=a(7294),l=a(5227);function u(){return n.createElement(l.Z,null,n.createElement("h1",null,"My React page"),n.createElement("p",null,"This is a React page"))}}}]);
