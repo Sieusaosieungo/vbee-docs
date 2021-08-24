@@ -4,8 +4,8 @@
   <ShortName>SmartDialog-Documentationnnn</ShortName>
   <Description>Search SmartDialog-Documentationnnn</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://manhvd161.github.io/smartdialog/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://manhvd161.github.io/smartdialog/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://manhvd161.github.io/smartdialog/opensearch.xml" />
-  <moz:SearchForm>https://manhvd161.github.io/smartdialog/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://manhvd161.github.io/smartdialog_docs/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://manhvd161.github.io/smartdialog_docs/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://manhvd161.github.io/smartdialog_docs/opensearch.xml" />
+  <moz:SearchForm>https://manhvd161.github.io/smartdialog_docs/</moz:SearchForm>
 </OpenSearchDescription>
