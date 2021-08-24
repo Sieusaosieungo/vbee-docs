@@ -4,8 +4,8 @@
   <ShortName>SmartDialog-Documentation</ShortName>
   <Description>Search SmartDialog-Documentation</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://manhvd161.github.io/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://manhvd161.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://manhvd161.github.io/opensearch.xml" />
-  <moz:SearchForm>https://manhvd161.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://manhvd161.github.io/vbee-docs/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://manhvd161.github.io/vbee-docs/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://manhvd161.github.io/vbee-docs/opensearch.xml" />
+  <moz:SearchForm>https://manhvd161.github.io/vbee-docs/</moz:SearchForm>
 </OpenSearchDescription>
